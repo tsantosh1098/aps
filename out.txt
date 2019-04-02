@@ -1,0 +1,17 @@
+.
+..
+12_3_19
+a.out
+Bit_manipulation
+dfs1.c
+dfs.c
+dish_meal.py
+Dynamic
+.git
+in.txt
+knapsack
+out.txt
+README.md
+refelctions
+sub_set_sum.c
+test.py
