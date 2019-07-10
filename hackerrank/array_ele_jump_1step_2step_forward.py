@@ -1,3 +1,8 @@
+"""This code is implimented to count number of jumps an element has done to dislocate from its original position (its index)
+constrain::element can jump at max 2 step , but here 2 single swap takes place during 2 step jump"""
+
+
+
 t=int(input())
 flg=0
 for j in range(t):
